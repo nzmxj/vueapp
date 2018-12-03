@@ -1,0 +1,31 @@
+{
+    "messagesList":[
+      {
+        "tp": "./static/img/message1.png",
+        "wz":"收到的赞和收藏",
+        "jt": "./static/img/message6.png"
+      },
+      {
+        "tp": "./static/img/message2.png",
+        "wz":"收到的评论和@",
+        "jt": "./static/img/message6.png"
+      },
+      {
+        "tp": "./static/img/message3.png",
+        "wz":"新增关注",
+        "jt": "./static/img/message6.png"
+      },
+      {
+        "tp": "./static/img/message4.png",
+        "wz":"通知消息",
+        "jt": "./static/img/message6.png"
+      },
+      {
+        "tp": "./static/img/message5.png",
+        "wz":"私信",
+        "jt": "./static/img/message6.png"
+      }
+    
+    ]
+  }
+  

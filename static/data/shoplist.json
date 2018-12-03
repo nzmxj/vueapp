@@ -1,0 +1,119 @@
+{
+    "shoplist":[
+      {
+        "tp": "./static/img/shopsec1.png",
+        "bt":"小红书",
+        "wz": "精选好物会员半价"
+      },
+      {
+        "tp": "./static/img/shopsec2.png",
+        "bt":"福利社",
+        "wz": "全世界的好东西"
+      },
+      {
+        "tp": "./static/img/shopsec3.png",
+        "bt":"有光",
+        "wz": "全棉毛巾低至14.5"
+      }
+        ],
+
+        "shoplist2":[
+          {
+            "tp": "./static/img/shoparticle1.png",
+            "bt":"粉质细腻显色度高",
+            "wz": "致源 城市眼影盘亚光牛奶少女系",
+            "jg": "￥ 74"
+          },
+          {
+            "tp": "./static/img/shoparticle3.png",
+            "bt":"美国·大地南瓜色细腻",
+            "wz": "NYX 16色眼影盘 16 03 Warm Neturals",
+            "jg": "￥ 74"
+          },
+          {
+            "tp": "./static/img/shoparticle4.png",
+            "bt":"中国·防晒美白五效合一",
+            "wz": "UH 水润美白防晒喷雾 150ml",
+            "jg": "￥ 138"
+          },
+          {
+            "tp": "./static/img/shoparticle5.png",
+            "bt":"一只行走的榨汁机",
+            "wz": "Vitamer 维他命电动便携果汁杯榨汁机",
+            "jg": "￥ 148"
+          },
+          {
+            "tp": "./static/img/shoparticle6.png",
+            "bt":"英国·多功能水润修肤色",
+            "wz": "MUA 五色遮瑕膏 4g",
+            "jg": "￥ 39"
+          },
+          {
+            "tp": "./static/img/shoparticle7.png",
+            "bt":"美国·烧钱完美替代",
+            "wz": "Revlon 露华浓 Lustrous Lipstick",
+            "jg": "￥ 38"
+          },
+          {
+            "tp": "./static/img/shoparticle8.png",
+            "bt":"英国·逼真持久随心换",
+            "wz": "YNA 小清新性感锁骨纹身贴",
+            "jg": "￥ 39"
+          },
+          {
+            "tp": "./static/img/shoparticle10.png",
+            "bt":"法国·温和卸妆懒人必备",
+            "wz": "BIODERMA贝德玛卸妆水 按压式 500ml",
+            "jg": "￥ 115"
+          },
+          {
+            "tp": "./static/img/shoparticle11.png",
+            "bt":"日本·修护受损健康亮泽",
+            "wz": "Shiseido资生堂 Fino 美容精华洗护套装",
+            "jg": "￥ 115"
+          },
+          {
+            "tp": "./static/img/shoparticle12.png",
+            "bt":"韩国·立体修容一款多用",
+            "wz": "too cool for school 涂酷三色修容粉饼",
+            "jg": "￥ 89"
+          },
+          {
+            "tp": "./static/img/shoparticle13.png",
+            "bt":"中国·超级逆天好用",
+            "wz": "Hold LIve 日落城市眼影",
+            "jg": "￥ 49"
+          },
+          {
+            "tp": "./static/img/shoparticle14.png",
+            "bt":"张雨绮推荐水果干",
+            "wz": "金正 干果机家用食品烘干机水果蔬菜",
+            "jg": "￥ 99"
+          },
+          {
+            "tp": "./static/img/shoparticle16.png",
+            "bt":"意大利·色泽饱满持久",
+            "wz": "Giorgio Armani乔治阿玛尼漆光迷情唇釉",
+            "jg": "￥ 234.27"
+          },
+          {
+            "tp": "./static/img/shoparticle17.png",
+            "bt":"韩国·李小璐同款",
+            "wz": "COSMETEA小怪兽 气垫EE水粉霜",
+            "jg": "￥ 98"
+          },
+          {
+            "tp": "./static/img/shoparticle18.png",
+            "bt":"韩国·蜂蜜满满水嫩紧致",
+            "wz": "JM solution 蜂蜜补水面膜10片*2",
+            "jg": "￥ 99"
+          },
+          {
+            "tp": "./static/img/shoparticle19.png",
+            "bt":"美国·心机小脸合影杀手",
+            "wz": "Wet n wild 双色修容盘（2016版）",
+            "jg": "￥ 29"
+          }
+            ]
+  }
+  

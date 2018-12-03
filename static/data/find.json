@@ -1,0 +1,150 @@
+{
+    "findlist1":[
+      {
+        "cd": "推荐"
+       },
+      {
+        "cd": "附近"
+       },
+      {
+        "cd": "视频" 
+      },
+      {
+        "cd": "护肤"
+      },
+      {
+        "cd": "时尚"
+      },
+      {
+        "cd": "彩妆"
+      },
+      {
+        "cd": "美食"
+      },
+      {
+        "cd": "旅行"
+      }
+
+        ],
+
+
+
+     "findlist2":[
+      {
+        "tp":"./static/img/indexmain7.png",
+        "bt":"揭秘韩国明星和ins网红最常用的7款自拍修图",
+        "tx":"./static/img/indexmain8.png",
+        "mz":"咪喵mimy",
+        "x":"❤",
+        "zan":"7557"
+     },
+     {
+      "tp":"./static/img/indexmain9.png",
+      "bt":"阔以欺骗直男的伪素颜妆！内含教程",
+      "tx":"./static/img/indexmain10.png",
+      "mz":"一只橘子",
+      "x":"❤",
+      "zan":"7557"
+     },
+     {
+      "tp":"./static/img/indexmain11.png",
+      "bt":"金秘书仿妆|超日常的韩剧女主珊瑚温柔日常妆",
+      "tx":"./static/img/indexmain12.png",
+      "mz":"欠几斤",
+      "x":"❤",
+      "zan":"7557"
+     },
+     {
+      "tp":"./static/img/indexmain13.png",
+      "bt":"❤❤❤❤❤❤❤❤❤❤❤ 终于............我来了",
+      "tx":"./static/img/indexmain14.png",
+      "mz":"宋祖儿",
+      "x":"❤",
+      "zan":"7557"
+     },
+     {
+      "tp":"./static/img/indexmain15.png",
+      "bt":"2018网红奶茶店最全点单攻略&nbsp&nbsp♡必收藏♡",
+      "tx":"./static/img/indexmain16.png",
+      "mz":"美食手账",
+      "x":"❤",
+      "zan":"7557"
+     },
+     {
+      "tp":"./static/img/indexmain17.png",
+      "bt":"见什么人涂什么色之情敌篇[得意]#最显白的口红#",
+      "tx":"./static/img/indexmain18.png",
+      "mz":"颜九",
+      "x":"❤",
+      "zan":"7557"
+     },
+     {
+      "tp":"./static/img/indexmain19.png",
+      "bt":"❤连照片都是爱你的模样❤朋友圈拼图教程",
+      "tx":"./static/img/indexmain20.png",
+      "mz":"魔魔",
+      "x":"❤",
+      "zan":"7557"
+     },
+     {
+      "tp":"./static/img/indexmain21.png",
+      "bt":"单眼皮豆沙紫眼妆教程 适合新手的六色眼影盘",
+      "tx":"./static/img/indexmain22.png",
+      "mz":"lyneebabe",
+      "x":"❤",
+      "zan":"7557"
+     },
+     {
+      "tp":"./static/img/indexmain23.png",
+      "bt":"拍出李圣经式少女感 修图滤镜app分享",
+      "tx":"./static/img/indexmain24.png",
+      "mz":"从不啰嗦",
+      "x":"❤",
+      "zan":"7557"
+     },
+     {
+      "tp":"./static/img/indexmain25.png",
+      "bt":"5个动作摆脱圆肩 矫正体态+天鹅臂养成",
+      "tx":"./static/img/indexmain26.png",
+      "mz":"胖歌歌哒",
+      "x":"❤",
+      "zan":"7557"
+     },
+     {
+      "tp":"./static/img/indexmain27.png",
+      "bt":"人均1500人民币不到的巴厘岛窮游攻略|自由行",
+      "tx":"./static/img/indexmain28.png",
+      "mz":"Grace",
+      "x":"❤",
+      "zan":"7557"
+     },
+     {
+      "tp":"./static/img/indexmain29.png",
+      "bt":"买不到mac106泫雅色？这几支酒红色了解一下",
+      "tx":"./static/img/indexmain30.png",
+      "mz":"Bebitalks",
+      "x":"❤",
+      "zan":"7557"
+     },
+     {
+      "tp":"./static/img/indexmain31.png",
+      "bt":"【像金秘书一样粉嫩通透|超简单上班约会百搭妆】",
+      "tx":"./static/img/indexmain32.png",
+      "mz":"蔡妮妮",
+      "x":"❤",
+      "zan":"287"
+     },
+     {
+      "tp":"./static/img/indexmain33.png",
+      "bt":"♡橘子汽水眼妆♡玫瑰苏打眼妆♡焦糖榛果眼妆♡",
+      "tx":"./static/img/indexmain34.png",
+      "mz":"宣莹儿",
+      "x":"❤",
+      "zan":"172"
+     }
+    ]   
+   
+
+
+  }
+  
